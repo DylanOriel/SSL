@@ -9,7 +9,7 @@
 | **Estándar de C** | C17 |
 
 ---
-# Generar ejecutable y Makefile
+## Generar ejecutable y Makefile
 Para generar el .exe y mostrar el resultado en la terminal se uso el siguiente comando
 ```
 gcc -o hello hello.c
